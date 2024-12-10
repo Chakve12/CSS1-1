@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+#Title {
+    color: #8E26C0;
+    font-size: 64px;
+    font-size: 64px;
+    line-height: 84px;
+    text-align: center;
+    margin-top: 24px 0px 0px 0px;
+}
+
+#P1 {
+    background-color: #FFE8E8;
+    color: red;
+    font-size: 32px;
+    font-family: Lato;
+    padding: 24px 40px;
+    width: 565px;
+    margin-left: 34px;    
+    margin-top: 29px;
+}
+
+#P2 {
+    padding: 24px 40px;
+    color: rgba(133, 100, 123, 1);
+    align-items: center;
+    width: 1023px;
+    font-size: 40px;
+    margin-left: 32px;
+    margin-top: 32px;
+    text-align: center;
+
+    /* Border Side Colors */
+    border-bottom: 3px solid purple;
+    border-top: 3px solid green;
+    border-left: 4px solid #C11574;
+    border-right: 6px solid blue;
+}
+
+#P3 {
+    background-color: rgba(255, 232, 232, 1);
+    color: #414651;
+    font-size: 35px;
+    margin-left: 32px;
+    margin-top: 36px;
+    width: 1023px;
+    text-align: center;
+    padding: 24px 40px;
+
+}
+
+#Discount {
+    color: #FF4405;
+    font-size: 40px;
+    border-bottom: #FF4405 solid 2px;
+}
+
+#P4 {
+    padding: 24px 40px;
+    background-color: white;
+    color: rgba(0, 100, 206, 1);
+    font-size: 32px;
+    border: 2px solid blue;
+    margin-left: 32px;
+    margin-top: 36px;
+    width: 1069px;
+}
+
+#Img {
+    margin-left: 32px;
+    margin-top: 76px;
+    width: 556px;
+    height: 347px;
+}
+
